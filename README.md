@@ -25,8 +25,6 @@ Ce projet vise à analyser un multipôle pour obtenir sa fonction de transfert, 
 ```
 SFG/
 │
-├── data/
-│   └── planches-cours.pdf
 │
 ├── main.py
 │
