@@ -1,0 +1,30 @@
+SFG/
+│
+├── data/
+│   └── planches-cours.pdf
+│
+├── main.py
+│
+├── ui/
+│   └── inputs.py
+│
+├── mathematics/
+│   ├── matrix_operations.py
+│   ├── signal_processing.py
+│   └── signalflow_algorithms/
+│       ├── common/
+│       ├── __init__.py
+│       └── algorithms/
+│           ├── __init__.py
+│           ├── johnson.py
+│           ├── tarjan.py
+│           └── mason.py 
+│
+└── graph/
+    ├── graph_initialization.py
+    └── algorithms/
+        ├── find_paths.py
+        ├── graph_operations.py
+        ├── graph.py
+        └── loop_group.py 
+    
