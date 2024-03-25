@@ -91,8 +91,6 @@ This project aims to analyze a multipole to obtain its transfer function, using 
 ```
 SFG/
 │
-├── data/
-│   └── planches-cours.pdf
 │
 ├── main.py
 │
